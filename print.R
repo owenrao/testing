@@ -1,1 +1,1 @@
-print("Living in Github")
+print("Live in Github")
